@@ -1,0 +1,24 @@
+a {
+	color:234,573,777;
+	font-size: 72px;
+}
+
+#a2{
+	position:absolute;
+	right:50%;
+	top:10px;
+}
+
+#a1 {
+	color: lime;
+	opacity: 1.00001;
+	position:absolute;
+    right:10px;
+    bottom:10px;
+}
+
+body {
+   			background: url("images/APSv.2.png");
+   			background-size: 100%;
+
+}
